@@ -4,7 +4,11 @@ This is the working area for the Individual internet-draft, "SWID Message and At
 
 * [Editor's copy](https://sacmwg.github.io/software-identification/)
 * [Individual Draft] (https://tools.ietf.org/html/draft-coffin-sacm-nea-swid-patnc)
+* [Compare Working Group and Editor's Drafts] (https://tools.ietf.org/rfcdiff?url1=https://www.ietf.org/id/draft-coffin-sacm-nea-swid-patnc&url2=https://sacmwg.github.io/software-identification/draft-coffin-sacm-nea-swid-patnc.txt)
 
+## Status
+
+The document has been adopted as a working group document and is under active developement.
 
 ## Building the Draft
 
