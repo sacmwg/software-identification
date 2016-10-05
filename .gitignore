@@ -4,10 +4,7 @@
 *.pdf
 *~
 *.swp
-/*-[0-9][0-9].xml
 .refcache
 venv/
 issues.json
-draft-coffin-sacm-nea-swid-patnc.xml
-draft-coffin-sacm-nea-swid-patnc.xml
-draft-coffin-sacm-nea-swid-patnc.xml
+
